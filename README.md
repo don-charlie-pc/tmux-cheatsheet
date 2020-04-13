@@ -1,4 +1,4 @@
-# tmux-cheatsheet
+# tmux cheatsheet (part 1)
 My tmux cheatsheet
 
 ## Sessions
@@ -92,7 +92,8 @@ My tmux cheatsheet
 * `<Ctrl-b>t` - show time
 * `<Ctrl-b>r` - reload config
 
-# tmux cheatsheet
+
+# tmux cheatsheet (part 2)
 
 start new with session name:
 
